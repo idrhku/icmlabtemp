@@ -1,6 +1,6 @@
 ---
 title: "Our Voices: Digital Storytelling at Edmonton Public Library / Carla Iacchelli"
-date: 2017-09-29
+date: 2017-09-29 00:00:00 Z
 categories:
 - video
 tags:
